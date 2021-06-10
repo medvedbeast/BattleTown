@@ -2,7 +2,7 @@
 Nothing to do with some battle cities. Definitely.
 
 
-<h1>Top-down tank battle</h1>
+<h3>Top-down tank battle</h3>
 Are you hard enough to endure? Don't think so!<br/><br/>
 [w/a/s/d] => movement<br/>
 [mouse] => aiming<br/>
