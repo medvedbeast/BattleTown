@@ -13,9 +13,6 @@ Are you hard enough to endure? Don't think so!<br/><br/>
 
 
 
-Main menu
-
-
 ![Image 0](./Readme/0.jpg)
 
 
