@@ -1,5 +1,5 @@
-# Battle-Town
-Nothing to do with cities. Definitely.
+# Battle Town
+Nothing to do with some battle cities. Definitely.
 
 
 <h1>Top-down tank battle</h1>
