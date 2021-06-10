@@ -3,17 +3,12 @@ Nothing to do with some battle cities. Definitely.
 
 
 <h1>Top-down tank battle</h1>
-Are you hard enough to endure? Don't think so!
-
-[w/a/s/d] => movement
-
-[mouse] => aiming
-
-[z] => pick up module crate
-
-[m] => destroy module crate
-
-[alt+F4] => lose game
+Are you hard enough to endure? Don't think so!<br/><br/>
+[w/a/s/d] => movement<br/>
+[mouse] => aiming<br/>
+[z] => pick up module crate<br/>
+[m] => destroy module crate<br/>
+[alt+F4] => lose game<br/><br/>
 
 
 
