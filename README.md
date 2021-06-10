@@ -6,6 +6,7 @@ Nothing to do with some battle cities. Definitely.
 Are you hard enough to endure? Don't think so!<br/><br/>
 [w/a/s/d] => movement<br/>
 [mouse] => aiming<br/>
+[left click] => shooting<br/>
 [z] => pick up module crate<br/>
 [m] => destroy module crate<br/>
 [alt+F4] => lose game<br/><br/>
